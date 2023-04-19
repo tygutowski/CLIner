@@ -1,0 +1,13 @@
+test=1a && x>=1 || x    == 1
+test= 1a
+test =1a 
+test=1a
+test == 1a   
+test== 1a
+test ==1a  
+test==1a
+test > 1a   
+test> 1a  
+test >=1a
+test>=1a
+x!=x
