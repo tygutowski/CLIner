@@ -18,8 +18,9 @@ class Parameter():
         self.value = value
 
 def get_file():
-    Tk().withdraw()
-    filename = askopenfilename()
+    #Tk().withdraw()
+    #filename = askopenfilename()
+    filename = "D:/CLIner/test.txt"
     return filename
 
 def read_lines(filename):
